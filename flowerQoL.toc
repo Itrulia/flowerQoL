@@ -1,0 +1,12 @@
+## Title: Flower UI: QoL 
+## Interface: 70000
+## Notes: Some quality of life changes to the Blizzard UI
+## Author: Itrulia
+## Version: v1.0.0
+
+config.lua
+
+qol/errorFilter.lua
+qol/vehicleIndicator.lua
+
+core.lua
