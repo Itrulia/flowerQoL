@@ -6,7 +6,9 @@
 
 config.lua
 
+qol/buyAStack.lua
 qol/errorFilter.lua
+qol/spellId.lua
 qol/vehicleIndicator.lua
 
 core.lua
